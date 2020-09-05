@@ -10,7 +10,7 @@ I'm Ricardo Sturk, front-end developer based on São Paulo, Brazil. 👨‍💻 
 - 💜 Interests: music, design, wine & pizza
 - 😄 Pronouns: he/him
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsturk87)(https://www.linkedin.com/in/rsturk87/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsturk87)(https://www.linkedin.com/in/rsturk87/)]
 
 ---
 ⭐️ From [sturk](https://github.com/rsturk87)
