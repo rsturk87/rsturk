@@ -11,7 +11,7 @@ I'm Ricardo Sturk, front-end developer based on São Paulo, Brazil. 👨‍💻 
 - 😄 Pronouns: he/him
 - ⚡ Languages: JavaScript, C#
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsturk87)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsturk87)
 
 ---
 ⭐️ From [sturk](https://github.com/rsturk87)
