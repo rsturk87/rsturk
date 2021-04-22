@@ -6,7 +6,7 @@ I'm Ricardo Sturk, front-end developer based on São Paulo, Brazil. 👨‍💻 
 
 - 🏢 I'm currently working with advertising
 - ⚙️ I use daily: `.js`, `.html`, `.scss`, `.svg`, `.png`, `.json`
-- 🌱 I’m currently learning PostgreSQL
+- 🌱 Now I wish to learn: Python
 - 💜 Interests: music, design, wine & pizza
 - 😄 Pronouns: he/him
 
