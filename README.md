@@ -4,9 +4,9 @@
 ## Hi 👋, 
 I'm Ricardo Sturk, front-end developer based on São Paulo, Brazil. 👨‍💻 I'm passionate about web technologies and design. I'm also a copywriter and guitarist in my spare time. 
 
-- 🏢 I'm currently working with advertising
+- 🏢 I'm currently working with marketing and content
 - ⚙️ I use daily: `.js`, `.html`, `.scss`, `.svg`, `.png`, `.json`
-- 🌱 Now I wish to learn: Python
+- 🌱 Now learning: Flutter
 - 💜 Interests: music, design, wine & pizza
 - 😄 Pronouns: he/him
 
