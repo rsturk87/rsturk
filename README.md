@@ -6,9 +6,8 @@ I'm Ricardo Sturk, based on Curitiba, Paraná, Brazil. 👨‍💻 I'm enthusias
 
 - 🏢 I'm currently working in the advertising business. I'm looking forward to a transition into career in technology.
 - ⚙️ I use daily: `.js`, `.html`, `.scss`, `.svg`, `.png`, `.json`
-- 🌱 Now learning: Python
-- 💜 Interests: heavy metal, sports, design
-- 😄 Pronouns: he/him
+- 🌱 Now learning: Java
+- 💜 Interests: wine&pizza, heavy metal, sports, design
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rsturk87)
 
